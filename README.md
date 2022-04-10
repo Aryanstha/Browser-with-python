@@ -9,8 +9,8 @@ Made a simple web browser with python
   python browser.py
   ```
     
-   #Result
+  # Result
     
- 
-    ![image](https://user-images.githubusercontent.com/67673221/162620927-ef4b902c-afad-4c5d-8a23-5549b430cea3.png)
-
+ As shown in image
+    
+   ![Capture](https://user-images.githubusercontent.com/67673221/162621002-bac56834-750d-463f-a9e8-dfeffce0f76e.JPG)
