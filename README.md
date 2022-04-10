@@ -5,10 +5,12 @@ Made a simple web browser with python
   <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a><br>
  
   
-  Step 2:
   ```bash
   python browser.py
   ```
     
+   #Result
     
-    ![image](https://user-images.githubusercontent.com/67673221/162620849-5082ac39-fd86-481a-b326-4d161953b750.png)
+ 
+    ![image](https://user-images.githubusercontent.com/67673221/162620927-ef4b902c-afad-4c5d-8a23-5549b430cea3.png)
+
